@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Order","create order","SUCCESS","2022-11-02T21:51:29.8946053+07:00[Asia/Bangkok]","0.0","6.11"
+"Order","get all order","SUCCESS","2022-11-02T21:51:36.017435+07:00[Asia/Bangkok]","0.0","1.78"
+"Order","get id 828 order","SUCCESS","2022-11-02T21:51:37.8042985+07:00[Asia/Bangkok]","0.0","1.78"
