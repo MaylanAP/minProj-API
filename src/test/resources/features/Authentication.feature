@@ -7,7 +7,7 @@ Feature: Authentication
   @Register
   Scenario: Registration with valid email password and full name
     Given set url registration
-    When input email password and fullname valid
+    When input email password and fullname valid 
     Then I get 200 OK
 
   Scenario: Registration with invalid email password and full name
