@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Product" skipped="0" tests="4" time="11.12" timestamp="2022-11-07 10:06:15"><testcase name="Create data product"/><testcase name="Get product valid id"/><testcase name="Delete product with id"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Product" skipped="0" tests="4" time="10.8" timestamp="2022-11-08 04:01:32"><testcase name="Create data product"/><testcase name="Get product valid id"/><testcase name="Delete product with id"/></testsuite>
