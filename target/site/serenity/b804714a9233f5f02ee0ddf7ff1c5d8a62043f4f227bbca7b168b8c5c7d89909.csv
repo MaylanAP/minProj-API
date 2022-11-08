@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Product","Create data product","SUCCESS","2022-11-02T21:51:29.8421557+07:00[Asia/Bangkok]","0.0","7.83"
-"Product","Get product valid id","SUCCESS","2022-11-02T21:51:37.6823501+07:00[Asia/Bangkok]","0.0","1.63"
-"Product","Delete product with id","SUCCESS","2022-11-02T21:51:39.3229517+07:00[Asia/Bangkok]","0.0","1.56"
+"Product","Create data product","SUCCESS","2022-11-07T10:06:15.5504481+07:00[Asia/Bangkok]","0.0","8.07"
+"Product","Get product valid id","SUCCESS","2022-11-07T10:06:23.675916+07:00[Asia/Bangkok]","0.0","1.51"
+"Product","Delete product with id","SUCCESS","2022-11-07T10:06:25.2057897+07:00[Asia/Bangkok]","0.0","1.54"
